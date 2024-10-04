@@ -8,7 +8,8 @@ Scenarios include Manufacturing, Sales, Purchasing, Product Management, Contact 
 * **Data Dictionary:**
 
 ![image](https://github.com/user-attachments/assets/0b057093-1414-4102-80b6-0b31a8b1b128)
-![image](https://github.com/user-attachments/assets/206fb21e-2d11-4664-812e-ab93e9431dd9)
+![image](https://github.com/user-attachments/assets/97257af3-493a-4aa0-8685-9c9d41f3ee9d)
+
 
 ### 1.3. Business Problem
 The business problem for Adventure Works Cycles relates to the **management and optimization of inventory** across multiple locations to support various departments such as manufacturing, sales, and marketing. The **main challenges** include:
@@ -34,9 +35,11 @@ Here are the four steps of design thinking:
 
 ### Step 4: Prototype and Review
 
-![image](https://github.com/user-attachments/assets/94264c85-a01c-4095-8e7a-35985830154a)
+![image](https://github.com/user-attachments/assets/bf5a6db3-47a0-4e13-b3db-ba360d3a4494)
 
-![image](https://github.com/user-attachments/assets/ec37a34e-d6da-4b96-8061-a3f19a32c5c4)
+
+![image](https://github.com/user-attachments/assets/40afe9ee-cdac-4f8e-ba7a-72d15b66b6e4)
+
 
 ## III. Visualization and Insights
 You can see the dashboard from: [Appendix](appendix)
